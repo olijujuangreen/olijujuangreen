@@ -1,0 +1,26 @@
+name: Generate 3D contribution calendar
+
+on:
+  schedule:
+    - cron: "20 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: olijujuangreen
+
+      - name: Commit generated calendar
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update 3D contribution calendar
+          file_pattern: profile-3d-contrib/*.svg
