@@ -12,12 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+SwiftUI+tools+that+feel+native%2C+fast%2C+and+intentional.;Designing+APIs+and+interfaces+with+less+noise+and+more+leverage.;Shipping+small%2C+sharp+systems+with+product-grade+taste." alt="Animated profile intro" />
 </p>
 
----
-
-<table>
-  <tr>
-    <td width="54%" valign="top">
-
 ### Current Operating Mode
 
 ```txt
@@ -28,9 +22,6 @@ standard    clear abstractions, focused UX, code that reads clean
 ```
 
 I care about the layer where product taste and implementation discipline meet: navigation, presentation, state, system surfaces, and the small details that make software feel considered.
-
-    </td>
-    <td width="46%" valign="top">
 
 ### Stack Signal
 
@@ -44,10 +35,6 @@ I care about the layer where product taste and implementation discipline meet: n
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-
-    </td>
-  </tr>
-</table>
 
 ---
 
