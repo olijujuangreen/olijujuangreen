@@ -40,32 +40,12 @@ I care about the layer where product taste and implementation discipline meet: n
 
 ### Featured Work
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/olijujuangreen/Halo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=olijujuangreen&repo=Halo&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb&icon_color=22c55e" alt="Halo repository card" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/olijujuangreen/Conduit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=olijujuangreen&repo=Conduit&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb&icon_color=22c55e" alt="Conduit repository card" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/olijujuangreen/Lyric">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=olijujuangreen&repo=Lyric&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb&icon_color=22c55e" alt="Lyric repository card" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/olijujuangreen/Pathfinder-React">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=olijujuangreen&repo=Pathfinder-React&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb&icon_color=22c55e" alt="Pathfinder React repository card" />
-      </a>
-    </td>
-  </tr>
-</table>
+| Project | Signal | Stack |
+| --- | --- | --- |
+| [`Halo`](https://github.com/olijujuangreen/Halo) | Dynamic Island presentation kernel shaped for SwiftUI and iOS 26+. | ![Swift](https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=swift&logoColor=white) |
+| [`Conduit`](https://github.com/olijujuangreen/Conduit) | Recent native app work with interface and architecture focus. | ![Swift](https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=swift&logoColor=white) |
+| [`Lyric`](https://github.com/olijujuangreen/Lyric) | Swift product surface with attention to presentation detail. | ![Swift](https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=swift&logoColor=white) |
+| [`Pathfinder-React`](https://github.com/olijujuangreen/Pathfinder-React) | React project with a published GitHub Pages demo. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) |
 
 <details>
   <summary><strong>More build notes</strong></summary>
@@ -84,17 +64,6 @@ I care about the layer where product taste and implementation discipline meet: n
 ---
 
 ### GitHub Telemetry
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=olijujuangreen&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb&icon_color=22c55e" alt="Olijujuan's GitHub stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olijujuangreen&layout=compact&hide_border=true&theme=github_dark&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb" alt="Olijujuan's most used languages" />
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=olijujuangreen&theme=github-dark-blue&hide_border=true&background=0F172A&ring=22C55E&fire=F97316&currStreakLabel=38BDF8" alt="GitHub streak stats" />
