@@ -47,6 +47,15 @@ I care about the layer where product taste and implementation discipline meet: n
 | [`Lyric`](https://github.com/olijujuangreen/Lyric) | Swift product surface with attention to presentation detail. | ![Swift](https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=swift&logoColor=white) |
 | [`Pathfinder-React`](https://github.com/olijujuangreen/Pathfinder-React) | React project with a published GitHub Pages demo. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) |
 
+### Product Work
+
+| Product | What I Own | Stack |
+| --- | --- | --- |
+| **Ekkos** | iOS podcast product work across app architecture, SwiftUI surfaces, playback-adjacent experience, transcript/chapter workflows, TestFlight readiness, and the local `AppLibrary` Swift package. | ![Swift](https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0a84ff?style=flat-square&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-111827?style=flat-square&logo=apple&logoColor=white) |
+| **ekkos-server** | Go API work behind the app: auth, library and clip endpoints, PostgreSQL migrations, APNS notification plumbing, deployment hardening, Bruno API docs, and verification scripts that keep backend behavior honest. | ![Go](https://img.shields.io/badge/Go-00add8?style=flat-square&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white) |
+
+The interesting part is the full loop: native iOS product craft on one side, API contracts and operational backend work on the other, with the same bar for clarity, polish, and release discipline across both.
+
 <details>
   <summary><strong>More build notes</strong></summary>
 
@@ -56,7 +65,6 @@ I care about the layer where product taste and implementation discipline meet: n
 | [`Conduit`](https://github.com/olijujuangreen/Conduit) | Recent Swift work. |
 | [`Lyric`](https://github.com/olijujuangreen/Lyric) | Recent Swift work. |
 | [`Pathfinder-React`](https://github.com/olijujuangreen/Pathfinder-React) | TypeScript/React project with a live GitHub Pages demo. |
-| [`Simple-Express-Api`](https://github.com/olijujuangreen/Simple-Express-Api) | TypeScript API work. |
 | [`dotfile`](https://github.com/olijujuangreen/dotfile) | Shell setup and local environment shaping. |
 
 </details>
