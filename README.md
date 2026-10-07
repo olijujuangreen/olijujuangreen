@@ -42,26 +42,8 @@ I care about the layer where product taste and implementation discipline meet: n
 
 | Project | Signal | Stack |
 | --- | --- | --- |
-| **Mosaic** | AI campaign studio spanning creative generation, review, and channel-ready exports. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white) |
-| **Ekkos** | Native iOS podcast product spanning SwiftUI surfaces, playback, transcripts, and chapters. | ![Swift](https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0a84ff?style=flat-square&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-111827?style=flat-square&logo=apple&logoColor=white) |
-| **ekkos-server** | Go API for auth, library and clip endpoints, PostgreSQL, APNS, and production operations. | ![Go](https://img.shields.io/badge/Go-00add8?style=flat-square&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white) |
-| [`Halo`](https://github.com/olijujuangreen/Halo) | Dynamic Island presentation kernel shaped for SwiftUI and iOS 26+. | ![Swift](https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=swift&logoColor=white) |
-| [`Conduit`](https://github.com/olijujuangreen/Conduit) | Recent native app work with interface and architecture focus. | ![Swift](https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=swift&logoColor=white) |
-| [`Lyric`](https://github.com/olijujuangreen/Lyric) | Swift product surface with attention to presentation detail. | ![Swift](https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=swift&logoColor=white) |
-| [`Pathfinder-React`](https://github.com/olijujuangreen/Pathfinder-React) | React project with a published GitHub Pages demo. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) |
-
-<details>
-  <summary><strong>More build notes</strong></summary>
-
-| Project | Signal |
-| --- | --- |
-| [`Halo`](https://github.com/olijujuangreen/Halo) | SwiftUI-only Dynamic Island presentation kernel for iOS 26+. |
-| [`Conduit`](https://github.com/olijujuangreen/Conduit) | Recent Swift work. |
-| [`Lyric`](https://github.com/olijujuangreen/Lyric) | Recent Swift work. |
-| [`Pathfinder-React`](https://github.com/olijujuangreen/Pathfinder-React) | TypeScript/React project with a live GitHub Pages demo. |
-| [`dotfile`](https://github.com/olijujuangreen/dotfile) | Shell setup and local environment shaping. |
-
-</details>
+| **Mosaify** | AI campaign studio spanning creative generation, review, and channel-ready exports. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white) |
+| **Ekkos** | Native iOS podcast product with SwiftUI, playback, transcripts, and chapters, backed by a Go API for auth, library, clips, and push notifications. | ![Swift](https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0a84ff?style=flat-square&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-111827?style=flat-square&logo=apple&logoColor=white) ![Go](https://img.shields.io/badge/Go-00add8?style=flat-square&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white) |
 
 ---
 
