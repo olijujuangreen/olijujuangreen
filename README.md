@@ -1,27 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,45:1d4ed8,100:22c55e&text=Olijujuan%20Green&fontColor=ffffff&fontAlign=50&fontAlignY=36&fontSize=44&desc=SwiftUI%20systems%20%2F%20product-minded%20engineering%20%2F%20sharp%20interfaces&descAlign=50&descAlignY=58&animation=fadeIn" alt="Olijujuan Green profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,45:1d4ed8,100:22c55e&text=Olijujuan%20Green&fontColor=ffffff&fontAlign=50&fontAlignY=36&fontSize=44&desc=Building%20Mosaify%20and%20Ekkos%20%2F%20AI%2C%20iOS%2C%20and%20full-stack%20engineering&descAlign=50&descAlignY=58&animation=fadeIn" alt="Olijujuan Green — building Mosaify and Ekkos" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/olijujuangreen?tab=repositories"><img src="https://img.shields.io/badge/repos-open%20source-22c55e?style=for-the-badge&labelColor=0f172a" alt="Open source repos" /></a>
-  <img src="https://img.shields.io/badge/focus-iOS%20%2B%20SwiftUI-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Focus: iOS and SwiftUI" />
-  <img src="https://img.shields.io/badge/style-polished%20systems-f97316?style=for-the-badge&labelColor=0f172a" alt="Style: polished systems" />
+  <img src="https://img.shields.io/badge/building-Mosaify%20%2B%20Ekkos-22c55e?style=for-the-badge&labelColor=0f172a" alt="Building: Mosaify and Ekkos" />
+  <img src="https://img.shields.io/badge/focus-AI%20%2B%20iOS-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Focus: AI and iOS" />
+  <img src="https://img.shields.io/badge/scope-design%20to%20production-f97316?style=for-the-badge&labelColor=0f172a" alt="Scope: design to production" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+SwiftUI+tools+that+feel+native%2C+fast%2C+and+intentional.;Designing+APIs+and+interfaces+with+less+noise+and+more+leverage.;Shipping+small%2C+sharp+systems+with+product-grade+taste." alt="Animated profile intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Building%20Mosaify%3A%20AI%20tools%20for%20images%2C%20video%2C%20and%20filmmaking.;Building%20Ekkos%3A%20podcast%20playback%2C%20transcripts%2C%20and%20chapters.;From%20product%20design%20to%20apps%2C%20APIs%2C%20and%20production%20systems." alt="Building Mosaify and Ekkos, from product design to apps, APIs, and production systems." />
 </p>
 
-### Current Operating Mode
+### What I Build
 
 ```txt
-role        product-minded software engineer
-center      SwiftUI, iOS, interaction systems
-edge        frontend architecture, API design, developer tools
-standard    clear abstractions, focused UX, code that reads clean
+products    Mosaify and Ekkos
+focus       AI creative tools, filmmaking, native iOS podcast experiences
+work        product design, web and iOS apps, APIs, media pipelines
+operations  databases, infrastructure, deployment, production reliability
 ```
 
-I care about the layer where product taste and implementation discipline meet: navigation, presentation, state, system surfaces, and the small details that make software feel considered.
+I build and operate Mosaify and Ekkos across the full product stack. Mosaify brings together AI image and video generation in Studio and filmmaking in Cinema. Ekkos pairs a native iOS podcast app with backend systems for playback, transcripts, chapters, and libraries. My work spans the user experience, the services behind it, and keeping both running in production.
 
 ### Stack Signal
 
